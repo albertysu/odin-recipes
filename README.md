@@ -1,2 +1,2 @@
 # odin-recipes
-Odin Project - Recipe Website
+Basic website using basic html.
